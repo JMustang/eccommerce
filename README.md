@@ -11,9 +11,9 @@ Vamos criar o projeto e **rails** como o comando abaixo:
 rails new nome-do-projeto -d postgresql -c tailwind
 ```
 
--**rails new** cria o projeto com o nome escolhido.
--**-d** essa flag, serve para deixar predefinido o banco de dados que sera usado.
--**-c** essa flag, serve para deixar predefinido que queremos usar tailwind no projeto.
+1.**rails new** cria o projeto com o nome escolhido.
+2.**-d** essa flag, serve para deixar predefinido o banco de dados que sera usado.
+3.**-c** essa flag, serve para deixar predefinido que queremos usar tailwind no projeto.
 
 outras Flags podem ser usadas, e serão, conforme o projeto for evoluindo
 
