@@ -1,24 +1,24 @@
-# README
+# Ruby on rails
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+- Aprendendo **ruby on rails** construindo um E-commerce.
 
-Things you may want to cover:
+1. Instale o [ruby](https://www.ruby-lang.org/en/downloads/) no seu sistema.
+2. Adicione a biblioteca do [ruby on rails](https://guides.rubyonrails.org/install_ruby_on_rails.html).
 
-* Ruby version
+Vamos criar o projeto e **rails** como o comando abaixo:
 
-* System dependencies
+```bash
+rails new nome-do-projeto -d postgresql -c tailwind
+```
 
-* Configuration
+-**rails new** cria o projeto com o nome escolhido.
+-**-d** essa flag, serve para deixar predefinido o banco de dados que sera usado.
+-**-c** essa flag, serve para deixar predefinido que queremos usar tailwind no projeto.
 
-* Database creation
+outras Flags podem ser usadas, e serão, conforme o projeto for evoluindo
 
-* Database initialization
+```bash
+```
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+```bash
+```
